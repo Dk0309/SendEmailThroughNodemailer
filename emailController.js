@@ -8,8 +8,8 @@ const emailController = (req,res) => {
         port: 465,               // true for 465, false for other ports
         host: "smtp.gmail.com",
            auth: {
-                user: 'kumardipu54@gmail.com',
-                pass:'kgluvfgtwxlpidjr',
+                user: 'Your_Email_ID',
+                pass:'**************',
              },
         secure: true,
         });
